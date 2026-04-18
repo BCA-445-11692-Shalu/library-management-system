@@ -1,0 +1,32 @@
+# Dependency folders
+/vendor/
+/node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Composer
+composer.lock
+
+# Cache / temp files
+/cache/
+/tmp/
+
+# Uploads (optional, अगर user uploads है)
+/uploads/
+
+# PHPUnit
+.phpunit.result.cache
